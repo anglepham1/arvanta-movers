@@ -1,0 +1,204 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "areas": "Service Areas",
+    "testimonials": "Reviews",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "getQuote": "Get Free Quote"
+  },
+  "hero": {
+    "tagline": "Moving Homes. Carrying Trust.",
+    "subtitle": "Delhi's trusted relocation partner since 2014. Professional packing, safe transport & timely delivery across India.",
+    "cta": "Get Free Quote",
+    "ctaSecondary": "Our Services",
+    "callNow": "Call Now"
+  },
+  "stats": {
+    "years": "Years Experience",
+    "relocations": "Successful Relocations",
+    "specialists": "Relocation Specialists",
+    "vehicles": "Transport Vehicles",
+    "onTime": "On-Time Delivery",
+    "rating": "Customer Rating",
+    "cities": "Cities Served"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete relocation solutions for every need",
+    "viewAll": "View All Services",
+    "enquireNow": "Enquire Now",
+    "household": {
+      "title": "Household Shifting",
+      "short": "Safe relocation of apartments, villas & houses with complete packing assistance.",
+      "description": "Safe relocation of apartments, villas, independent houses, and rented accommodations with complete packing and unpacking assistance. Our trained crew handles every item with care — from delicate glassware to heavy furniture."
+    },
+    "office": {
+      "title": "Office Relocation",
+      "short": "End-to-end office movement including IT equipment & furniture.",
+      "description": "End-to-end office movement including workstations, IT equipment, archives, furniture, and conference room assets. We plan weekend moves to minimize business disruption."
+    },
+    "local": {
+      "title": "Local Shifting",
+      "short": "Quick relocation within Delhi NCR — same day available.",
+      "description": "Quick and efficient relocation services within Delhi, Gurgaon, Noida, Faridabad, Ghaziabad, and nearby regions. Same-day and next-day options available."
+    },
+    "interstate": {
+      "title": "Interstate Relocation",
+      "short": "Long-distance shifting between major Indian cities.",
+      "description": "Long-distance household and commercial shifting between major cities across India. GPS-tracked transportation with regular status updates."
+    },
+    "car": {
+      "title": "Car Transportation",
+      "short": "Door-to-door car transport using specialized carriers.",
+      "description": "Door-to-door car transport using specialized vehicle carriers and safety restraints. Your vehicle is fully insured during transit."
+    },
+    "bike": {
+      "title": "Bike Transportation",
+      "short": "Secure two-wheeler relocation with protective packing.",
+      "description": "Secure two-wheeler relocation with protective packing and tracked transportation. Handlebar, mirrors, and body panels are individually protected."
+    },
+    "warehouse": {
+      "title": "Warehouse & Storage",
+      "short": "Short-term & long-term storage with inventory management.",
+      "description": "Short-term and long-term storage solutions with monitored facilities and inventory management. Climate-controlled units available for sensitive items."
+    },
+    "packing": {
+      "title": "Packing & Unpacking",
+      "short": "Professional multi-layer packing and organized unpacking.",
+      "description": "Professional packing using multilayer protective materials and organized unpacking assistance. Every item is labeled and catalogued for easy identification."
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose Arvanta Movers",
+    "subtitle": "What sets us apart from the rest",
+    "viewMore": "Learn More About Us",
+    "items": {
+      "coordinators": "Experienced Relocation Coordinators",
+      "packingTeams": "Dedicated Packing Teams",
+      "gps": "GPS-Enabled Transportation",
+      "transparent": "Transparent Quotations",
+      "noHidden": "No Hidden Charges",
+      "timely": "Timely Pickup & Delivery",
+      "damage": "Damage-Minimization Procedures",
+      "insurance": "Transit Insurance Assistance",
+      "support": "Responsive Customer Support",
+      "coverage": "Coverage Across 120+ Cities"
+    }
+  },
+  "process": {
+    "title": "How It Works",
+    "subtitle": "Simple 6-step relocation process",
+    "viewMore": "Learn More",
+    "steps": {
+      "quote": { "title": "Request a Quote", "desc": "Share your moving requirements via phone, WhatsApp, or online inquiry." },
+      "assessment": { "title": "Move Assessment", "desc": "Our advisor evaluates inventory and requirements." },
+      "packing": { "title": "Packing & Pickup", "desc": "Professional packing and secure loading." },
+      "transport": { "title": "Transportation", "desc": "GPS-tracked transport to destination." },
+      "delivery": { "title": "Delivery & Unloading", "desc": "Safe unloading and placement at new location." },
+      "completion": { "title": "Move Completion", "desc": "Final verification and confirmation." }
+    }
+  },
+  "areas": {
+    "title": "Service Areas",
+    "subtitle": "Serving Delhi NCR and major cities across India",
+    "viewAll": "View All Routes",
+    "delhiNcr": "Delhi NCR",
+    "interstate": "Popular Interstate Routes",
+    "panIndia": "Pan-India Network",
+    "panIndiaDesc": "Serving 120+ cities across India with reliable door-to-door service.",
+    "getQuoteFor": "Get Quote"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Trusted by thousands of families across India",
+    "viewAll": "Read All Reviews",
+    "overallRating": "Overall Rating"
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "subtitle": "Experienced professionals dedicated to your move",
+    "viewMore": "More About Us"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers to common queries",
+    "viewAll": "View All FAQs",
+    "stillQuestions": "Still Have Questions?",
+    "askWhatsapp": "Ask on WhatsApp",
+    "items": {
+      "packing": { "q": "Do you provide packing materials?", "a": "Yes, professional packing materials including bubble wrap, corrugated sheets, thermocol, and sturdy cartons are provided based on the move requirements." },
+      "insurance": { "q": "Do you offer insurance?", "a": "Transit insurance assistance is available for eligible relocations. Our team helps you with the documentation and claim process." },
+      "booking": { "q": "How early should I book?", "a": "Booking 5-10 days in advance is recommended for a smooth experience. However, we also accommodate last-minute moves subject to availability." },
+      "weekend": { "q": "Do you provide weekend shifting?", "a": "Yes, services are available throughout the week including weekends and holidays at no extra charge." },
+      "tracking": { "q": "Can I track my shipment?", "a": "Yes, shipment status updates are available through your dedicated move coordinator via WhatsApp and phone calls." },
+      "office": { "q": "Do you relocate office equipment?", "a": "Yes, office furniture, computer systems, documents, servers, and IT assets can be safely relocated with minimal downtime." },
+      "cost": { "q": "How is the cost calculated?", "a": "Cost depends on volume of goods, distance, packing requirements, and floor access. We provide a detailed breakdown with no hidden charges." },
+      "cancel": { "q": "Can I reschedule or cancel?", "a": "Yes, rescheduling is free up to 48 hours before the move. Cancellation policies vary based on the stage of preparation." }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help with your relocation needs",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "service": "Service Required",
+      "fromCity": "Moving From",
+      "toCity": "Moving To",
+      "date": "Preferred Date",
+      "message": "Additional Details",
+      "submit": "Send via WhatsApp",
+      "selectService": "Select a service"
+    },
+    "info": {
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "address": "Office Address",
+      "hours": "Working Hours",
+      "hoursValue": "Mon - Sun: 8:00 AM - 9:00 PM"
+    },
+    "quickContact": "Quick Contact",
+    "callUs": "Call Us",
+    "whatsappUs": "WhatsApp Us",
+    "emailUs": "Email Us"
+  },
+  "about": {
+    "title": "About Arvanta Movers",
+    "subtitle": "Delhi's trusted relocation partner since 2014",
+    "story": {
+      "title": "Our Story",
+      "p1": "Founded in 2014, Arvanta Movers began as a small relocation operation serving families across Delhi NCR. Over the years, we have expanded our fleet, packing capabilities, and interstate logistics network to support residential and commercial relocations across India.",
+      "p2": "Our company focuses on secure packing methods, transparent pricing, punctual transportation, and responsive customer support. Every move is managed by trained relocation professionals who oversee packing, loading, transportation, unloading, and placement of goods at the destination."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To make every relocation stress-free, safe, and transparent — delivering peace of mind along with your belongings."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To become India's most trusted relocation brand, known for care, reliability, and customer-first service."
+    }
+  },
+  "cta": {
+    "getFreeQuote": "Get Free Quote",
+    "requestCallback": "Request Callback",
+    "talkToExpert": "Talk to an Expert",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details"
+  },
+  "footer": {
+    "company": "Arvanta Relocations Pvt. Ltd.",
+    "tagline": "Moving Homes. Carrying Trust.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved.",
+    "address": "B-117, Second Floor, Naraina Industrial Area Phase-I, New Delhi – 110028"
+  }
+}
